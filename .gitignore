@@ -1,3 +1,8 @@
 /escrow/target/
 /solana-starter-turbine/node_modules/
 /solana-starter-turbine/ts/.yarnrc.yml
+/escrow/node_modules/
+/.idea/workspace.xml
+/.idea/vcs.xml
+/solana-starter-turbine/rs/.vscode/settings.json
+/.idea/modules.xml
